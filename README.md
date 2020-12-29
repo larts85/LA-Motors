@@ -4,8 +4,9 @@ Ejercicio de postulación para el puesto de Desarrollador Junior
 ## Lianel Artiles Sotolongo
 ### FullStack Developer
 
-#### <a href="https://1drv.ms/u/s!Auuq-ElvTalAxrgt0cKYNQUsmqiLqQ" target="_blank">Diagrama de clases<img src="https://github.com/larts85/Onready-Challenge/blob/master/Diagrama%20de%20clases.svg" width="100%" />
-</a>
+#### Diagrama de clases
+
+<img src="https://github.com/larts85/Onready-Challenge/blob/master/Diagrama%20de%20clases.svg" width="80%" />
 
 #### Contactame:
 [![Gmail Badge](https://img.shields.io/badge/-larts85@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:larts85@gmail.com "E-mail me")
